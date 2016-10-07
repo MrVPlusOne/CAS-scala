@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SeverusRainDrop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SeverusRainDrop_jar</output-path>
+    <root id="archive" name="SeverusRainDrop.jar">
+      <element id="module-output" name="SeverusRainDrop" />
+      <element id="extracted-dir" path="C:/Softwares/scalaHome/scala-2.11.2/lib/scala-actors-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Softwares/scalaHome/scala-2.11.2/lib/scala-library.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Softwares/scalaHome/scala-2.11.2/lib/scala-parser-combinators_2.11-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Softwares/scalaHome/scala-2.11.2/lib/scala-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Softwares/scalaHome/scala-2.11.2/lib/scala-swing_2.11-1.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Softwares/scalaHome/scala-2.11.2/lib/scala-xml_2.11-1.0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="C:/Softwares/scalaHome/scalatest_2.11-2.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
