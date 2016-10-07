@@ -2,7 +2,7 @@
 
 #### A simple Computer Algebra System (CAS) written in Scala
 
-#### [project page](https://mrvplusone.github.io/gallery-casInScala.html)
+#### [see introduction here](https://mrvplusone.github.io/gallery-casInScala.html)
 
 ### Main features
 
