@@ -1,8 +1,8 @@
-# Rain Drop
+# CAS-scala
 
 #### A simple Computer Algebra System (CAS) written in Scala
 
-#### [see introduction here](https://mrvplusone.github.io/gallery-casInScala.html)
+#### [see introduction here](https://mrvplusone.github.io/old-homepage/gallery-casInScala.html)
 
 ### Main features
 
